@@ -94,6 +94,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Para mentir se necesitan dos: Uno que mienta y otro que escuche.
+
+*Homer Simpson*
+
+-------
+
 > Hay 10 tipos de personas en el mundo: los que entienden el binario, y los que no.
 
 *Anónimo*
